@@ -1,0 +1,20 @@
+[
+  {
+    "endpoint": "character",
+    "query_key": "name",
+    "query_value": "NonExistentCharacter",
+    "expected_error": "Character not found"
+  },
+  {
+    "endpoint": "location",
+    "query_key": "name",
+    "query_value": "NonExistentLocation",
+    "expected_error": "Location not found"
+  },
+  {
+    "endpoint": "episode",
+    "query_key": "name",
+    "query_value": "NonExistentEpisode",
+    "expected_error": "Episode not found"
+  }
+]

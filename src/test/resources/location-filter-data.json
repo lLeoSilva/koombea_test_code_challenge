@@ -1,0 +1,5 @@
+[
+  { "filter_key": "name", "filter_value": "Earth (C-137)" },
+  { "filter_key": "type", "filter_value": "Planet" },
+  { "filter_key": "dimension", "filter_value": "Dimension C-137" }
+]

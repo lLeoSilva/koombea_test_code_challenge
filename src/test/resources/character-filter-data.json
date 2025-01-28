@@ -1,0 +1,7 @@
+[
+  { "filter_key": "name", "filter_value": "Rick Sanchez" },
+  { "filter_key": "status", "filter_value": "Alive" },
+  { "filter_key": "species", "filter_value": "Human" },
+  { "filter_key": "type", "filter_value": "" },
+  { "filter_key": "gender", "filter_value": "Male" }
+]
