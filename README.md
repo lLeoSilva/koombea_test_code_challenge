@@ -28,7 +28,7 @@ This project contains automated tests for the Rick and Morty API, which can be f
 4. **Git**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/lLeoSilva/koombea_code_challenge.git
+     git clone https://github.com/lLeoSilva/koombea_test_code_challenge.git
      ```
 
 ---
